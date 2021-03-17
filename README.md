@@ -25,4 +25,5 @@ Breve descrição introdutória do trabalho a realizar
 3. Tarefa - [ ] - por realizar
 
 *Itálico*
+
 **Negrito**
