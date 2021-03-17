@@ -19,4 +19,10 @@ Breve descrição introdutória do trabalho a realizar
 * Requisito 2
 * Requisito 3
 
+## Lista de Tarefas
+1. Tarefa - [x] - concluída
+2. Tarefa - [] - por realizar
+3. Tarefa - [] - por realizar
 
+*Itálico*
+**Negrito**
