@@ -19,10 +19,16 @@ Breve descrição introdutória do trabalho a realizar
 * Requisito 2
 * Requisito 3
 
-## Lista de Tarefas
+## Lista de Tarefas (h2)
 1. Tarefa - [x] - concluída
 2. Tarefa - [ ] - por realizar
 3. Tarefa - [ ] - por realizar
+
+## Links do Projeto
+[GitHub](https://github.com/)
+
+## Imagens do Projeto
+![Logo](https://static.vecteezy.com/ti/vetor-gratis/p1/602898-pessoas-de-trabalho-em-equipe-logos-projeto-bem-sucedido-do-projeto-do-logotipo-da-parceria-vetor.jpg)
 
 *Itálico*
 
