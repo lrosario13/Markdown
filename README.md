@@ -8,3 +8,15 @@ Breve descrição introdutória do trabalho a realizar
 * Nome 2
 * Nome 3
 
+## Requisitos da Aplicação (h2)
+### Requisitos Minímos (h3)
+* Requisito 1
+* Requisito 2
+* Requisito 3
+
+### Requisitos Avançados (h3)
+* Requisito 1
+* Requisito 2
+* Requisito 3
+
+
