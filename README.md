@@ -24,11 +24,19 @@ Breve descrição introdutória do trabalho a realizar
 2. Tarefa - [ ] - por realizar
 3. Tarefa - [ ] - por realizar
 
-## Links do Projeto
+
+## Links do Projeto (h2)
 [GitHub](https://github.com/)
 
-## Imagens do Projeto
+## Imagens do Projeto (h2)
 ![Logo](https://static.vecteezy.com/ti/vetor-gratis/p1/602898-pessoas-de-trabalho-em-equipe-logos-projeto-bem-sucedido-do-projeto-do-logotipo-da-parceria-vetor.jpg)
+
+## Tabela
+Nomes | Idades
+----- | ------
+Ana | 45
+Luís | 46
+Rita | 33
 
 *Itálico*
 
