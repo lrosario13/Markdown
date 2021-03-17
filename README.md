@@ -38,6 +38,8 @@ Ana | 45
 Luís | 46
 Rita | 33
 
+`Código`
+
 *Itálico*
 
 **Negrito**
