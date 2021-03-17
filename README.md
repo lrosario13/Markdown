@@ -21,8 +21,8 @@ Breve descrição introdutória do trabalho a realizar
 
 ## Lista de Tarefas
 1. Tarefa - [x] - concluída
-2. Tarefa - [] - por realizar
-3. Tarefa - [] - por realizar
+2. Tarefa - [ ] - por realizar
+3. Tarefa - [ ] - por realizar
 
 *Itálico*
 **Negrito**
