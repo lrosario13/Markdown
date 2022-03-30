@@ -32,11 +32,11 @@ Breve descrição introdutória do trabalho a realizar
 ![Logo](https://static.vecteezy.com/ti/vetor-gratis/p1/602898-pessoas-de-trabalho-em-equipe-logos-projeto-bem-sucedido-do-projeto-do-logotipo-da-parceria-vetor.jpg)
 
 ## Tabela
-Nomes | Idades
+Nomes | Número
 -- | --
-Ana | 45
-Luís | 46
-Rita | 33
+Ana | 12345
+Luís | 12346
+Rita | 12833
 
 `Código`
 
