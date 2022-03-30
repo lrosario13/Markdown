@@ -33,7 +33,7 @@ Breve descrição introdutória do trabalho a realizar
 
 ## Tabela
 Nomes | Idades
------ | ------
+-- | --
 Ana | 45
 Luís | 46
 Rita | 33
