@@ -24,6 +24,10 @@ Breve descrição introdutória do trabalho a realizar
 2. Tarefa - [ ] - por realizar
 3. Tarefa - [ ] - por realizar
 
+## Lista de Tarefas 2 (h2)
+- [x] #739
+- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] Add delight to the experience when all tasks are complete :tada:
 
 ## Links do Projeto (h2)
 [GitHub](https://github.com/)
