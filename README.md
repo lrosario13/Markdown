@@ -20,9 +20,9 @@ Breve descrição introdutória do trabalho a realizar
 * Requisito 3
 
 ## Lista de Tarefas (h2)
-1. Tarefa - [x] - concluída
-2. Tarefa - [ ] - por realizar
-3. Tarefa - [ ] - por realizar
+- [x] - Tarefa concluída
+- [ ] - Tarefa por realizar
+- [ ] - Tarefa por realizar
 
 ## Lista de Tarefas 2 (h2)
 - [x] #739
