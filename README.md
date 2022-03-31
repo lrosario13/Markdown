@@ -20,14 +20,14 @@ Breve descrição introdutória do trabalho a realizar
 * Requisito 3
 
 ## Lista de Tarefas (h2)
-- [x] - Tarefa concluída
-- [ ] - Tarefa por realizar
-- [ ] - Tarefa por realizar
+- [x] Tarefa 1 concluída
+- [ ] Tarefa 2 por realizar
+- [ ] Tarefa 3 por realizar
 
 ## Lista de Tarefas 2 (h2)
 - [x] #739
 - [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
+- [ ] com icon :tada:
 
 ## Links do Projeto (h2)
 [GitHub](https://github.com/)
