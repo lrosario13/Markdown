@@ -26,7 +26,7 @@ Breve descrição introdutória do trabalho a realizar
 
 ## Lista de Tarefas 2 (h2)
 - [x] #739
-- [ ] [Repo](https://github.com/octo-org/octo-repo-go)
+- [ ] [Repo Octo](https://github.com/octo-org/octo-repo-go)
 - [ ] com icon :tada:
 
 ## Links do Projeto (h2)
