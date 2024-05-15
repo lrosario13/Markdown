@@ -26,14 +26,15 @@ Breve descrição introdutória do trabalho a realizar
 
 ## Lista de Tarefas 2 (h2)
 - [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
+- [ ] [Repo](https://github.com/octo-org/octo-repo-go)
 - [ ] com icon :tada:
 
 ## Links do Projeto (h2)
 [GitHub](https://github.com/)
 
 ## Imagens do Projeto (h2)
-![Logo](https://static.vecteezy.com/ti/vetor-gratis/p1/602898-pessoas-de-trabalho-em-equipe-logos-projeto-bem-sucedido-do-projeto-do-logotipo-da-parceria-vetor.jpg)
+![Logo](https://image.similarpng.com/very-thumbnail/2020/12/Lorem-ipsum-logo-design-on-transparent-PNG.png)
+![Logo2](sol.gif)
 
 ## Tabela
 Nomes | Número
