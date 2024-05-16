@@ -34,7 +34,7 @@ Breve descrição introdutória do trabalho a realizar
 
 ## Imagens do Projeto (h2)
 ![Logo](https://image.similarpng.com/very-thumbnail/2020/12/Lorem-ipsum-logo-design-on-transparent-PNG.png)
-![Logo2](imagens/sol.gif)
+![Logo2](imagens/fenix.jpg)
 
 ## Tabela
 Nomes | Número
